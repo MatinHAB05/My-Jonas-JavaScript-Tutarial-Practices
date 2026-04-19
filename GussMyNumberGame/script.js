@@ -49,7 +49,7 @@ btn_check.addEventListener('click', function () {
 
   if (userGusses === RandomNumber) {
     //edits
-    Game_Message.textContent = '🤬 دیوث از کجا فهمیدی';
+    Game_Message.textContent = '🤬  از کجا فهمیدی';
     doc_body.style.backgroundColor = '#60b347';
     btn_check.disabled = true;
     hiddenNumberDiv.innerHTML = RandomNumber;
@@ -65,7 +65,7 @@ btn_check.addEventListener('click', function () {
           ? '🙃بهم الهام شد که پایینتره'
           : '🥸حالا که دارم فکر میکنم باید بالاتر بری';
     } else {
-      Game_Message.textContent = '😂😂😂باختی کفتر😂😂😂';
+      Game_Message.textContent = '😂😂😂باختی برار';
       btn_check.disabled = true;
       doc_body.style.backgroundColor = 'red';
       hiddenNumberDiv.innerHTML = RandomNumber;
