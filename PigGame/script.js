@@ -49,7 +49,7 @@ function RollDiceLogic() {
 
   if (dice_number === 1) {
     currentPlayer.TempcurrentScore = 0;
-    alert(`SHIT!\nYOU[Player_${currentPlayer.Player_Name}] Gotcha 1 😒`);
+    alert(`DAMMIT!\nYOU[Player_${currentPlayer.Player_Name}] Gotcha 1 😒`);
   } else {
     currentPlayer.TempcurrentScore += dice_number;
   }
