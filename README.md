@@ -24,7 +24,8 @@ This project is my first practice project for reviewing and practicing the marku
 
 ## Features
 - Java Script
-- HTML5
+- HTML5![Uploading Screenshot 2026-04-20 033435.png…]()
+
 - CSS
 
 ## How to View Games
@@ -33,4 +34,11 @@ This project is my first practice project for reviewing and practicing the marku
 [Pig Game](https://www.google.com)
 
 ## Project Demo Images
-Some project screenshots will be placed here.
+<details>
+<summary>Guess My Number Game</summary>
+  
+
+</details>
+<details>
+<summary>Pig Game</summary>
+</details>
