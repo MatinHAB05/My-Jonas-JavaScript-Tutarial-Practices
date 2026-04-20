@@ -1,11 +1,11 @@
 ---
-title: My Impletion For Jonas Java Script Tutorial Practices()
+title: My Impletion For Jonas Java Script Tutorial Practices
 author: Matin HAB
 tags: [practice, html-css-javascript]
 date: 2025-03-21
 ---
 
-# HTML-CSS Practice Project
+# My Impletion For Jonas Java Script Tutorial Practices
 
 # Table of Contents
 - [Introduction](#introduction)
