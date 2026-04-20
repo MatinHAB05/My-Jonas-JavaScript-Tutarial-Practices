@@ -18,9 +18,9 @@ date: 2025-03-21
 This project is my first practice project for reviewing and practicing the markup languages HTML and CSS. In this project, I tried to implement a login page, although the main focus was on designing the body section of the page.
 
 ## Todo List
-- [x] Modal
-- [x] Guess My Number Game
-- [x] Pig Game
+- :white_check_mark: Modal
+- :white_check_mark: Guess My Number Game
+- :white_check_mark: Pig Game
 
 ## Features
 - Java Script
@@ -28,7 +28,8 @@ This project is my first practice project for reviewing and practicing the marku
 - CSS
 
 ## How to View Games
-[Guss My Number Game!](https://www.google.com)
+[Guss My Number Game](https://www.google.com)
+
 [Pig Game](https://www.google.com)
 
 ## Project Demo Images
